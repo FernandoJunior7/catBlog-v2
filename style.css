@@ -177,7 +177,7 @@ footer {
       "header header"
       "main aside"
       "footer footer";
-    grid-template-columns: minmax(800px, 1000px) minmax(350px, 440px);
+    grid-template-columns: minmax(688px, 800px) minmax(480px, 608px);
     grid-template-rows: 4.5rem 1fr 4rem;
     gap: 2.5rem 2rem;
 
